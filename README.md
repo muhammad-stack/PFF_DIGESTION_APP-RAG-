@@ -23,7 +23,7 @@ This repository contains a Generative AI-powered Q&A system leveraging Google Ge
 
 2. Install the required dependencies:
    ```bash
-   poetry install langchain langchain_community langchain_google_genai python-dotenv
+   poetry add langchain langchain_community langchain_google_genai python-dotenv
    ```
 
 3. Configure your environment by adding the necessary API keys to a `.env` file:
